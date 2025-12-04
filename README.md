@@ -6,10 +6,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-  <a href="https://www.facebook.com/your-facebook">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&color=1877F2&style=for-the-badge" height="25" alt="facebook logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge](https://www.linkedin.com/in/esraa-mohammad-75b996216/" height="25" alt="linkedin logo" />
   </a>
 </div>
 
@@ -57,8 +54,7 @@ I'm a MERN Stack Developer from Egypt, passionate about building efficient and s
   <!-- State Management & Forms -->
   <img src="https://img.icons8.com/color/48/000000/redux.png" height="40" alt="Redux logo" />
   <img width="12" />
-  <img src="https://img.icons8.com/ios/50/000000/react-hook-form.png" height="40" alt="React Hook Form logo" />
-  <img width="12" />
+
 
   <!-- Validation & Utilities -->
   <img src="https://img.icons8.com/ios/50/000000/zod.png](https://zod.dev/_next/image?url=%2Flogo%2Flogo-glow.png&w=640&q=100" height="40" alt="Zod logo" />
@@ -78,6 +74,5 @@ I'm a MERN Stack Developer from Egypt, passionate about building efficient and s
 <p>
 Feel free to reach out to me via email or social media:<br>
 - Email: <a href="mailto:esraamohammad107@gmail.com">esraamohammad107@gmail.com</a><br>
-- LinkedIn: <a href="https://www.linkedin.com/in/your-linkedin">linkedin.com/in/your-linkedin</a><br>
-- Facebook: <a href="https://www.facebook.com/your-facebook">facebook.com/your-facebook</a>
+- LinkedIn: <a href="https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/esraa-mohammad-75b996216/">linkedin</a><br>
 </p>
