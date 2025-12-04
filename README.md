@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" />
+  <img height="150" src="https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL3Jhd3BpeGVsb2ZmaWNlN18yZF9pbGx1c3RyYXRpb25fb2Zfam95ZnVsX25pY2Vfd29tYW5fdXNpbmdfbGFwdF8yYzI4M2Y0ZS00MDRkLTQxMTgtYWFhYi0wMWRlYzRmYzI0OTBfMS5qcGc.jpg" />
 </div>
 
 ### 
@@ -11,12 +11,6 @@
   <a href="https://www.facebook.com/your-facebook">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&color=1877F2&style=for-the-badge" height="25" alt="facebook logo" />
   </a>
-</div>
-
-### 
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=EsraaMohammad" />
 </div>
 
 ### 
@@ -67,9 +61,8 @@ I'm a MERN Stack Developer from Egypt, passionate about building efficient and s
   <img width="12" />
 
   <!-- Validation & Utilities -->
-  <img src="https://img.icons8.com/ios/50/000000/zod.png" height="40" alt="Zod logo" />
+  <img src="https://img.icons8.com/ios/50/000000/zod.png](https://zod.dev/_next/image?url=%2Flogo%2Flogo-glow.png&w=640&q=100" height="40" alt="Zod logo" />
   <img width="12" />
-  <img src="https://img.icons8.com/color/48/000000/axios.png" height="40" alt="Axios logo" />
 
   <!-- Version Control -->
   <img width="12" />
@@ -78,21 +71,13 @@ I'm a MERN Stack Developer from Egypt, passionate about building efficient and s
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo" />
 </div>
 
-
----
-
-<h3 align="left">🔥 Stats</h3>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=EsraaMohammad&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-</div>
-
 ---
 
 <h3 align="left">📫 Contact Me</h3>
 
 <p>
-- Email: esraamohammad107@gmail.com<br>
+Feel free to reach out to me via email or social media:<br>
+- Email: <a href="mailto:esraamohammad107@gmail.com">esraamohammad107@gmail.com</a><br>
 - LinkedIn: <a href="https://www.linkedin.com/in/your-linkedin">linkedin.com/in/your-linkedin</a><br>
 - Facebook: <a href="https://www.facebook.com/your-facebook">facebook.com/your-facebook</a>
 </p>
