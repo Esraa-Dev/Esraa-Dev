@@ -75,5 +75,5 @@ I'm a MERN Stack Developer from Egypt, passionate about building efficient and s
 <p>
 Feel free to reach out to me via email or social media:<br>
 - Email: <a href="mailto:esraamohammad107@gmail.com">esraamohammad107@gmail.com</a><br>
-- LinkedIn: <a href="https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/esraa-mohammad-75b996216/">linkedin</a><br>
+- LinkedIn: <a href="www.linkedin.com/in/esraa-mohammad-75b996216/">linkedin</a><br>
 </p>
