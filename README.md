@@ -2,7 +2,8 @@
   <img height="150" src="https://assets-v2.lottiefiles.com/a/7f69c930-1180-11ee-a99d-57c5be034869/D85wH4fb3a.gif" />
 </div>
 
-<h1 align="center">Hi there 👋, I’m Esraa Mohammad</h1>
+<h1 align="center">Hi there 👋, I'm Esraa Mohammad</h1>
+<h3 align="center">Full Stack MERN Developer from Egypt 🇪🇬</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=esraa-mohammad&label=Profile%20Views&color=ff69b4&style=flat" alt="profile views" />
@@ -12,7 +13,19 @@
   <a href="https://www.linkedin.com/in/esraa-mohammad-75b996216/">
     <img src="https://img.shields.io/badge/LinkedIn-Esraa%20Mohammad-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="28" alt="linkedin logo" />
   </a>
+  <a href="mailto:esraamohammad107@gmail.com">
+    <img src="https://img.shields.io/badge/Email-esraamohammad107@gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="28" alt="email logo" />
+  </a>
 </div>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=esraa-mohammad&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esraa-mohammad&layout=compact&theme=radical&hide_border=true&langs_count=8&exclude_repo=Doctor-Appointment-Mern-Stack-App-master" alt="Top Languages" />
+</p>
 
 ---
 
@@ -22,7 +35,8 @@
 I'm a <strong>MERN Stack Developer</strong> from <strong>Egypt</strong>, passionate about building efficient and scalable web applications.<br><br>
 - 🔭 Currently improving my software engineering skills and mastering the MERN stack.<br>
 - 📚 Learning more about backend architecture, databases, and real-world full-stack projects.<br>
-- 🚀 Always eager to build clean, maintainable, and production-ready applications.
+- 🚀 Always eager to build clean, maintainable, and production-ready applications.<br>
+- 💼 Open to collaboration on interesting projects.
 </p>
 
 ---
@@ -72,7 +86,8 @@ I'm a <strong>MERN Stack Developer</strong> from <strong>Egypt</strong>, passion
 
 <p align="left">
 📧 Email: <a href="mailto:esraamohammad107@gmail.com">esraamohammad107@gmail.com</a><br>
-💼 LinkedIn: <a href="https://www.linkedin.com/in/esraa-mohammad-75b996216/">linkedin.com/in/esraa-mohammad</a>
+💼 LinkedIn: <a href="https://www.linkedin.com/in/esraa-mohammad-75b996216/">linkedin.com/in/esraa-mohammad</a><br>
+🐙 GitHub: <a href="https://github.com/esraa-mohammad">github.com/esraa-mohammad</a>
 </p>
 
 ---
