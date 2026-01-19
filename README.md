@@ -22,10 +22,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=esraa-mohammad&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esraa-mohammad&layout=compact&theme=radical&hide_border=true&langs_count=8&exclude_repo=Doctor-Appointment-Mern-Stack-App-master" alt="Top Languages" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esraa-Dev&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Esraa-Dev's GitHub Stats" />
 
 ---
 
