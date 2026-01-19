@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi there 👋, I'm Esraa Mohammad</h1>
-<h3 align="center">Stack MERN Stack Developer from Egypt 🇪🇬</h3>
+<h3 align="center"> MERN Stack Developer from Egypt </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=esraa-mohammad&label=Profile%20Views&color=ff69b4&style=flat" alt="profile views" />
