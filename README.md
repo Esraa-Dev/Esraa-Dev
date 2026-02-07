@@ -22,13 +22,7 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esraa-Dev&theme=dark&show_icons=true&hide_border=true&layout=compact&hide=html,css,scss&count_private=true" alt="Esraa-Dev's Top Languages" />
-  
-  <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Esraa-Dev&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Esraa-Dev's Overall Stats" />
-</div>
+<img src="https://github.com/Esraa-Dev/GitHub-Language-Stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
 
 ---
 
@@ -90,7 +84,7 @@ I'm a <strong>MERN Stack Developer</strong> from <strong>Egypt</strong>, passion
 <p align="left">
 📧 Email: <a href="mailto:esraamohammad107@gmail.com">esraamohammad107@gmail.com</a><br>
 💼 LinkedIn: <a href="https://www.linkedin.com/in/esraa-mohammad-75b996216/">linkedin.com/in/esraa-mohammad</a><br>
-🐙 GitHub: <a href="https://github.com/esraa-mohammad">github.com/esraa-mohammad</a>
+🐙 GitHub: <a href="https://github.com/Esraa-Dev">github.com/esraa-mohammad</a>
 </p>
 
 ---
