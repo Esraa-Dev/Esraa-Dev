@@ -1,24 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:6C63FF,100:8A2BE2&text=ESRAA%20MOHAMMAD&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:6C63FF,100:8B5CF6&text=ESRAA%20MOHAMMAD&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 
-<h2>
-Full Stack Developer • Instructor • Software Engineer
-</h2>
+<h1>🚀 Full Stack Developer | Instructor | Software Engineer</h1>
 
 <p>
-Building scalable web applications, crafting seamless user experiences, and helping future developers grow.
+Building scalable web applications, crafting modern user experiences,
+and helping future developers grow through teaching and mentorship.
 </p>
 
 <p>
-<a href="mailto:esraamohammad107@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/esraa-mohammad-75b996216/">
-<img src="https://img.shields.io/badge/LinkedIn-Esraa_Mohammad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
+<img src="https://komarev.com/ghpvc/?username=Esraa-Dev&style=for-the-badge&color=6C63FF" />
 </p>
 
 </div>
@@ -27,51 +19,51 @@ Building scalable web applications, crafting seamless user experiences, and help
 
 # 👩‍💻 About Me
 
-I'm **Esraa Mohammad**, a Full Stack Developer passionate about building modern web applications and solving real-world problems through technology.
-
-My experience includes developing systems in healthcare, recruitment, e-commerce, and educational domains using modern JavaScript technologies.
-
-Alongside software development, I enjoy teaching programming and mentoring students through practical project-based learning.
-
-### Current Focus
-
-* Backend Development
-* Software Engineering
-* System Design
-* Full Stack Applications
-* Technical Mentoring
+```javascript
+const esraa = {
+    location: "Egypt 🇪🇬",
+    role: "Full Stack Developer",
+    specialization: "MERN Stack",
+    passions: [
+        "Backend Development",
+        "Software Architecture",
+        "Teaching & Mentoring",
+        "Problem Solving"
+    ],
+    currentlyLearning: [
+        "System Design",
+        "Advanced Backend Engineering",
+        "Scalable Applications"
+    ]
+};
+```
 
 ---
 
-# 🚀 Featured Projects
+# ⚡ What I Build
 
 <table>
 <tr>
 <td width="50%">
 
-### 🏥 Healthcare Management System
-
-A complete healthcare platform featuring:
+### 🏥 Healthcare Systems
 
 * Patient Management
 * Appointment Scheduling
-* Authentication System
-* Administrative Dashboard
-* Secure Data Handling
+* Authentication & Roles
+* Admin Dashboards
+* Medical Records
 
 </td>
 
 <td width="50%">
 
-### 💼 Recruitment Platform
-
-Modern hiring solution including:
+### 💼 Recruitment Platforms
 
 * Job Management
 * Candidate Tracking
-* Employer Dashboard
-* Secure Authentication
-* Real-Time Updates
+* Employer Dashboards
+* Application Workflow
 
 </td>
 </tr>
@@ -79,28 +71,23 @@ Modern hiring solution including:
 <tr>
 <td width="50%">
 
-### 🛒 E-Commerce Platform
+### 🛒 E-Commerce Solutions
 
-Production-ready commerce solution:
-
-* Product Catalog
+* Product Management
 * Shopping Cart
-* User Authentication
-* Order Management
-* Responsive Design
+* Authentication
+* Order Processing
 
 </td>
 
 <td width="50%">
 
-### 🎓 Educational Platform
+### 🎓 Educational Platforms
 
-Learning-focused application featuring:
-
-* Student Management
-* Course Organization
+* Student Dashboards
+* Learning Management
+* Interactive Content
 * Progress Tracking
-* Interactive Learning Experience
 
 </td>
 </tr>
@@ -108,24 +95,7 @@ Learning-focused application featuring:
 
 ---
 
-# ⚙️ Engineering Focus
-
-<div align="center">
-
-| Area         | Expertise                   |
-| ------------ | --------------------------- |
-| Frontend     | React.js, Redux, JavaScript |
-| Backend      | Node.js, Express.js         |
-| Database     | MongoDB, SQL                |
-| APIs         | RESTful APIs                |
-| Architecture | Scalable Web Applications   |
-| Tools        | Git, GitHub, Postman        |
-
-</div>
-
----
-
-# 🛠 Tech Stack
+# 🛠 Technology Stack
 
 <div align="center">
 
@@ -135,9 +105,24 @@ Learning-focused application featuring:
 
 ---
 
+# ⚙️ Engineering Focus
+
+<div align="center">
+
+| Backend        | Frontend     | Database | Tools   |
+| -------------- | ------------ | -------- | ------- |
+| Node.js        | React.js     | MongoDB  | Git     |
+| Express.js     | Next.js      | MySQL    | GitHub  |
+| REST APIs      | Redux        | Mongoose | Postman |
+| Authentication | Tailwind CSS | SQL      | VS Code |
+
+</div>
+
+---
+
 # 🎓 Teaching & Mentoring
 
-I enjoy helping aspiring developers learn modern web development through hands-on projects and practical guidance.
+I enjoy helping students and junior developers understand modern web development through practical projects and real-world examples.
 
 ### Topics I Teach
 
@@ -147,12 +132,38 @@ I enjoy helping aspiring developers learn modern web development through hands-o
 * Node.js
 * MongoDB
 * Full Stack Development
-* Project Building
-* Problem Solving
+* Software Engineering Fundamentals
+* Project-Based Learning
 
 ---
 
-# 📈 GitHub Analytics
+# 🚀 Featured Projects
+
+<div align="center">
+
+<a href="#">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Esraa-Dev&repo=Hospital-System&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="#">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Esraa-Dev&repo=Recruitment-Platform&theme=tokyonight&hide_border=true" />
+</a>
+
+<br/>
+
+<a href="#">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Esraa-Dev&repo=Ecommerce-Store&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="#">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Esraa-Dev&repo=Learning-Management-System&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -162,7 +173,7 @@ I enjoy helping aspiring developers learn modern web development through hands-o
 
 </div>
 
-<br>
+<br/>
 
 <div align="center">
 
@@ -172,26 +183,28 @@ I enjoy helping aspiring developers learn modern web development through hands-o
 
 ---
 
-# 📊 Contribution Activity
+# 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Esraa-Dev&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Esraa-Dev&theme=tokyo-night&hide_border=true" />
 
 </div>
 
 ---
 
-# 🌟 What Defines Me
+# 🌟 Core Strengths
 
 ```text
-✓ Full Stack Developer
-✓ Backend Enthusiast
-✓ Software Engineering Mindset
-✓ Technical Instructor
-✓ Continuous Learner
-✓ Team Player
-✓ Problem Solver
+✓ Full Stack Development
+✓ Backend Engineering
+✓ API Development
+✓ Database Design
+✓ Authentication Systems
+✓ Problem Solving
+✓ Teaching & Mentoring
+✓ Clean Code Practices
+✓ Team Collaboration
 ```
 
 ---
@@ -200,16 +213,16 @@ I enjoy helping aspiring developers learn modern web development through hands-o
 
 <div align="center">
 
-<a href="mailto:esraamohammad107@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://www.linkedin.com/in/esraa-mohammad-75b996216/">
+<img src="https://img.shields.io/badge/LinkedIn-Esraa_Mohammad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/esraa-mohammad-75b996216/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="mailto:esraamohammad107@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Esraa-Dev">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Esraa_Dev-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -218,8 +231,8 @@ I enjoy helping aspiring developers learn modern web development through hands-o
 
 <div align="center">
 
-### ✨ Thanks for visiting my profile ✨
+### ✨ Building, Learning, Teaching, and Growing Every Day ✨
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6C63FF,100:8A2BE2"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6C63FF,100:8B5CF6" />
 
 </div>
