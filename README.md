@@ -1,74 +1,62 @@
 <h1 align="center">Hi 👋, I'm Esraa Mohammad</h1>
 
 <h3 align="center">
-🚀 Full Stack Developer | MERN Stack Developer | Programming Instructor
+Full Stack Developer | MERN Stack Developer
 </h3>
 
 <p align="center">
-Passionate about building scalable web applications, solving real-world problems, and helping future developers grow through teaching and mentorship.
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Esraa-Dev&label=Profile%20Views&color=6C63FF&style=for-the-badge" />
+Building modern web applications with a focus on clean architecture, scalable solutions, and exceptional user experiences.
 </p>
 
 ---
 
-# 💫 About Me
+# 👩‍💻 Who Am I
 
-I am a **Full Stack JavaScript Developer** specializing in building modern web applications using the **MERN Stack (MongoDB, Express.js, React.js, Node.js)**.
+I'm a Full Stack JavaScript Developer passionate about transforming ideas into real-world digital products.
 
-I enjoy transforming ideas into practical digital solutions through clean architecture, responsive user interfaces, and scalable backend systems.
+My primary focus is building scalable applications using modern technologies, creating intuitive user interfaces, and developing maintainable backend systems that solve real business problems.
 
-Alongside development, I work as a **Programming Instructor**, helping students learn web development through hands-on projects and real-world applications.
+Currently interested in:
 
----
-
-## ⚡ Core Skills
-
-* Full Stack Web Development
-* RESTful API Development
-* Frontend Development with React.js
-* Backend Development with Node.js & Express.js
-* Authentication & Authorization (JWT)
-* Database Design & Data Modeling
-* Responsive Web Design
-* Git & Collaborative Development
-* Technical Mentoring & Teaching
+* Full Stack Development
+* Backend Engineering
+* System Design
+* Software Architecture
+* Performance Optimization
 
 ---
 
-# 🌐 Connect With Me
+# 🧠 What I Enjoy Building
 
-<p align="left">
+### 🏥 Healthcare Platforms
 
-<a href="mailto:esraamohammad107@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+Modern healthcare systems that improve patient experience and service accessibility.
 
-<a href="https://www.linkedin.com/in/esraa-mohammad-75b996216/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+### 💼 Recruitment Solutions
 
-<a href="https://github.com/Esraa-Dev">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+Applications that connect employers and candidates through efficient workflows.
 
-</p>
+### 🛒 E-Commerce Applications
+
+Scalable online shopping experiences with modern user interfaces.
+
+### ⚙️ Business Systems
+
+Solutions that automate workflows and improve operational efficiency.
 
 ---
 
-# 💻 Tech Stack
+# 🛠 My Toolbox
 
 ### Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge\&logo=redux\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+![Material UI](https://img.shields.io/badge/MUI-0081CB?style=for-the-badge\&logo=mui\&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge\&logo=mui\&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge\&logo=redux\&logoColor=white)
 
 ### Backend
 
@@ -90,13 +78,13 @@ Alongside development, I work as a **Programming Instructor**, helping students 
 
 ---
 
-# 🌟 Flagship Project
+# 🌟 Currently Building
 
 <div align="center">
 
 <a href="https://al-shifa-clinic.vercel.app/" target="_blank">
 
-<img src="./alshifa.png" width="100%" alt="Al Shifa Clinic"/>
+<img src="./al-shifa-preview.png" width="100%" alt="Al-Shifa Clinic Preview"/>
 
 </a>
 
@@ -104,69 +92,30 @@ Alongside development, I work as a **Programming Instructor**, helping students 
 
 ## 🩺 Al-Shifa Clinic
 
-A modern healthcare website designed to provide patients with a seamless and responsive medical experience while showcasing healthcare services, doctors, and appointment booking capabilities.
+A modern healthcare platform designed to provide patients with an intuitive digital experience while showcasing medical services, departments, doctors, and appointment workflows.
 
-### ✨ Key Features
+### Highlights
 
-* Modern Medical User Interface
-* Fully Responsive Design
-* Multi-Device Compatibility
-* Doctors & Departments Showcase
-* Appointment Booking Experience
-* Fast Performance
-* User-Friendly Navigation
+* Responsive Design
+* Modern Healthcare UI
+* Appointment Experience
+* Service & Department Management
+* Mobile-Friendly Interface
+* Optimized Performance
 
-### 🛠 Technologies Used
+### Project Link
 
-* React.js
-* JavaScript
-* HTML5
-* CSS3
-* Bootstrap
-
-### 🔗 Links
-
-🌐 Live Demo: https://al-shifa-clinic.vercel.app/
-
-📂 Repository: ADD_YOUR_REPOSITORY_LINK_HERE
+🌐 https://al-shifa-clinic.vercel.app/
 
 ---
 
-### 💡 What This Project Demonstrates
-
-* Component-Based Architecture
-* Responsive Web Development
-* UI/UX Best Practices
-* Real-World Healthcare Solution
-* Production Deployment
-* Frontend Project Organization
-
----
-
-# 🎓 Teaching & Mentoring
-
-I enjoy helping students and aspiring developers learn programming through practical projects and real-world examples.
-
-### Topics I Teach
-
-* HTML & CSS
-* JavaScript
-* React.js
-* Node.js
-* MongoDB
-* REST APIs
-* Git & GitHub
-* Full Stack Development
-
----
-
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Esraa-Dev&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Esraa-Dev&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esraa-Dev&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esraa-Dev&layout=compact&theme=tokyonight"/>
 
 </div>
 
@@ -180,16 +129,25 @@ I enjoy helping students and aspiring developers learn programming through pract
 
 ---
 
-# 🎯 Current Goals
+# 🎯 Current Focus
 
-* Master Backend Engineering
-* Learn System Design
-* Build More Production-Ready Applications
-* Contribute to Open Source Projects
-* Continue Teaching & Mentoring Developers
+* Building production-ready applications
+* Improving backend architecture skills
+* Learning advanced system design concepts
+* Creating scalable full-stack solutions
+
+---
+
+# 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/esraa-mohammad-75b996216)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:esraamohammad107@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Esraa-Dev)
 
 ---
 
 <h3 align="center">
-✨ Thanks for visiting my profile ✨
+Thanks for stopping by ✨
 </h3>
