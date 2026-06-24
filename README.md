@@ -1,86 +1,171 @@
 <div align="center">
-  <img height="150" src="https://assets-v2.lottiefiles.com/a/7f69c930-1180-11ee-a99d-57c5be034869/D85wH4fb3a.gif" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=250&section=header&text=Esraa%20Mohammad&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 </div>
-
-<h1 align="center">Hi there 👋, I'm Esraa Mohammad</h1>
-<h3 align="center"> MERN Stack Developer from Egypt </h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=esraa-mohammad&label=Profile%20Views&color=ff69b4&style=flat" alt="profile views" />
-</p>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/esraa-mohammad-75b996216/">
-    <img src="https://img.shields.io/badge/LinkedIn-Esraa%20Mohammad-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="28" alt="linkedin logo" />
-  </a>
-  <a href="mailto:esraamohammad107@gmail.com">
-    <img src="https://img.shields.io/badge/Email-esraamohammad107@gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="28" alt="email logo" />
-  </a>
+  <img height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2N5bDBjMWM1bTRlYjJ4dW1oMTh1dGQ5aWJwZ3J3MDFpZDVxNG9xZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" />
 </div>
 
----
+<h1 align="center">Hi 👋, I'm Esraa Mohammad</h1>
 
-<h3 align="left">👩‍💻 About Me</h3>
+<h3 align="center">
+🚀 Full Stack Developer | MERN Stack Developer | Coding Instructor
+</h3>
 
-<p align="left">
-I'm a <strong>MERN Stack Developer</strong> from <strong>Egypt</strong>, passionate about building efficient and scalable web applications.<br><br>
-- 🔭 Currently improving my software engineering skills and mastering the MERN stack.<br>
-- 📚 Learning more about backend architecture, databases, and real-world full-stack projects.<br>
-- 🚀 Always eager to build clean, maintainable, and production-ready applications.<br>
-- 💼 Open to collaboration on interesting projects.
+<p align="center">
+Building scalable web applications, teaching programming, and creating impactful digital solutions.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Esraa-Dev&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
 </p>
 
 ---
 
-<h3 align="left">🛠 Technologies & Frameworks</h3>
+## 👩‍💻 About Me
 
-<div align="left">
-  <!-- Core MERN Stack -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img width="12" />
+* 🚀 Full Stack Developer specializing in MERN Stack
+* 🎓 Programming Instructor & Technical Mentor
+* 💼 Built projects in Healthcare, Recruitment, and E-Commerce domains
+* 🌱 Currently learning System Design & Software Architecture
+* 🔥 Passionate about Backend Development and scalable applications
+* 🤝 Open to Freelance, Remote Jobs, and Collaboration Opportunities
+* 🇪🇬 Based in Egypt
 
-  <!-- Styling & UI -->
-  <img src="https://img.icons8.com/color/48/bootstrap.png" height="40" alt="Bootstrap" />
-  <img width="12" />
-  <img src="https://img.icons8.com/color/48/material-ui.png" height="40" alt="Material UI" />
-  <img width="12" />
+---
 
-  <!-- State Management -->
-  <img src="https://img.icons8.com/color/48/redux.png" height="40" alt="Redux" />
-  <img width="12" />
+## 🚀 Featured Projects
 
-  <!-- Validation -->
-  <img width="100" height="40" alt="Zod & Joi" src="https://github.com/user-attachments/assets/bf6d1e11-9c38-4664-916c-8a8cc68dfbd5" />
-  <img width="12" />
+<div align="center">
 
-  <!-- Version Control -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+<a href="YOUR_PROJECT_LINK">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Esraa-Dev&repo=Hospital-System&theme=tokyonight" />
+</a>
+
+<a href="YOUR_PROJECT_LINK">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Esraa-Dev&repo=Recruitment-System&theme=tokyonight" />
+</a>
+
+<br><br>
+
+<a href="YOUR_PROJECT_LINK">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Esraa-Dev&repo=Ecommerce-Store&theme=tokyonight" />
+</a>
+
+<a href="YOUR_PROJECT_LINK">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Esraa-Dev&repo=LMS-Platform&theme=tokyonight" />
+</a>
+
 </div>
 
 ---
 
-<h3 align="left">📫 Contact Me</h3>
+## 🛠 Tech Stack
 
-<p align="left">
-📧 Email: <a href="mailto:esraamohammad107@gmail.com">esraamohammad107@gmail.com</a><br>
-💼 LinkedIn: <a href="https://www.linkedin.com/in/esraa-mohammad-75b996216/">linkedin.com/in/esraa-mohammad</a><br>
-🐙 GitHub: <a href="https://github.com/Esraa-Dev">github.com/esraa-mohammad</a>
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,express,mongodb,mysql,redux,tailwind,bootstrap,git,github,vscode,postman" />
+
+</div>
 
 ---
 
-<h3 align="center">✨ Thank you for visiting my profile!</h3>
+## 🎓 Teaching & Mentoring
+
+* Frontend Development
+* JavaScript Fundamentals
+* React.js
+* HTML & CSS
+* MERN Stack Development
+* Student Project Mentoring
+* Problem Solving
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Esraa-Dev&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esraa-Dev&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Esraa-Dev&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Esraa-Dev&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+## 💡 What I Build
+
+### 🏥 Healthcare Systems
+
+* Patient Management
+* Appointment Scheduling
+* Medical Records
+
+### 💼 Recruitment Platforms
+
+* Job Listings
+* Candidate Management
+* Authentication & Dashboards
+
+### 🛒 E-Commerce Applications
+
+* Product Management
+* Shopping Cart
+* Payment Integration
+
+### 📚 Educational Platforms
+
+* Course Management
+* Student Tracking
+* Interactive Learning Systems
+
+---
+
+## 🌍 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/esraa-mohammad-75b996216/">
+<img src="https://img.shields.io/badge/LinkedIn-Esraa%20Mohammad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:esraamohammad107@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-esraamohammad107@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/Esraa-Dev">
+<img src="https://img.shields.io/badge/GitHub-Esraa--Dev-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<h3 align="center">
+✨ Thanks for visiting my profile ✨
+</h3>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer" />
+</div>
