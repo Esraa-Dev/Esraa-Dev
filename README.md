@@ -36,77 +36,153 @@ My focus is creating scalable systems, responsive user interfaces, and maintaina
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,javascript,html,css,bootstrap,redux,mysql,git,github,figma,postman" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,javascript,typescript,nextjs,html,css,tailwind,bootstrap,redux,mysql,git,github,figma,postman" />
 
 </div>
 
 ---
 
-## 🚀 Signature Project
+# 🚀 Featured Projects
+
+---
+
+## 🩺 Al-Shifa Clinic
 
 <div align="center">
 
 <a href="https://al-shifa-clinic.vercel.app/">
 
-<img src="./al-shifa-preview.png" width="500"/>
+<img src="./al-shifa-preview.png" width="700"/>
 
 </a>
 
 </div>
 
-### 🩺 Al-Shifa Clinic
-
 A full-stack healthcare platform built to streamline medical services through appointment management, doctor profiles, video consultations, multilingual support, and secure authentication.
 
-#### Key Features
+### Key Features
 
-* Multi-role Authentication (Patient, Doctor, Admin)
-* Real-Time Video Consultations
-* Appointment Booking System
-* Electronic Prescriptions
-* Doctor Ratings & Reviews
-* Arabic & English Support
-* Stripe Payment Integration
-* Admin Dashboard
-* Responsive Design
+- Multi-role Authentication (Patient, Doctor, Admin)
+- Real-Time Video Consultations
+- Appointment Booking System
+- Electronic Prescriptions
+- Doctor Ratings & Reviews
+- Arabic & English Support
+- Stripe Payment Integration
+- Admin Dashboard
+- Responsive Design
 
-#### Technology Stack
+### Technology Stack
 
 **Frontend**
 
-* React
-* TypeScript
-* Tailwind CSS
-* React Query
-* i18next
+- React
+- TypeScript
+- Tailwind CSS
+- React Query
+- i18next
 
 **Backend**
 
-* Node.js
-* Express.js
-* TypeScript
-* MongoDB
-* Socket.io
-* JWT Authentication
+- Node.js
+- Express.js
+- TypeScript
+- MongoDB
+- Socket.io
+- JWT Authentication
 
 **Services**
 
-* Stripe
-* Cloudinary
-* Mailtrap
-* ZegoCloud
+- Stripe
+- Cloudinary
+- Mailtrap
+- ZegoCloud
 
-#### Links
+### Links
 
-🌐 Live Demo
+🌐 Live Demo  
 https://al-shifa-clinic.vercel.app/
 
-📂 Repository
+📂 Repository  
 https://github.com/Esraa-Dev/Al-Shifa-Clinic
 
 ---
 
-## 🌐 Connect
+## 🕌 Ataa Platform
+
+<div align="center">
+
+<a href="https://ataa-omega.vercel.app/">
+
+<img src="./ataa.png" width="700"/>
+
+</a>
+
+</div>
+
+A modern full-stack platform developed to provide an engaging Islamic educational experience with responsive UI, authentication, and scalable architecture.
+
+### Highlights
+
+- Modern responsive interface
+- Authentication system
+- Dynamic content management
+- Optimized performance
+- Clean and scalable architecture
+
+### Live Demo
+
+🌐 https://ataa-omega.vercel.app/
+
+> **Repository:** Private
+
+---
+
+## 💻 Tarmeez Code
+
+<div align="center">
+
+<a href="https://tarmeezcode.com/">
+
+<img src="./tarmeez.png" width="700"/>
+
+</a>
+
+</div>
+
+A professional educational platform focused on programming education with a modern user experience, responsive design, and high-performance frontend architecture.
+
+### Highlights
+
+- Responsive modern UI
+- Interactive user experience
+- Fast performance
+- Production-ready frontend
+- Clean component architecture
+
+### Live Demo
+
+🌐 https://tarmeezcode.com/
+
+> **Repository:** Private
+
+---
+
+## 🛠 Technologies I Work With
+
+| Frontend | Backend | Database | Tools |
+|----------|----------|----------|-------|
+| React | Node.js | MongoDB | Git |
+| Next.js | Express.js | MySQL | GitHub |
+| TypeScript | REST APIs | Prisma | Postman |
+| JavaScript | JWT | Mongoose | Figma |
+| Tailwind CSS | Socket.io | | VS Code |
+| Bootstrap | | | React Query |
+| Redux Toolkit | | | |
+
+---
+
+## 🌐 Connect With Me
 
 <div align="center">
 
