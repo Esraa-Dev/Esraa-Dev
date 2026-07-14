@@ -114,7 +114,7 @@ https://github.com/Esraa-Dev/Al-Shifa-Clinic
 
 <a href="https://ataa-omega.vercel.app/">
 
-<img src="./ataa.png" width="700"/>
+<img src="./atta.png" width="700"/>
 
 </a>
 
@@ -144,7 +144,7 @@ A modern full-stack platform developed to provide an engaging Islamic educationa
 
 <a href="https://tarmeezcode.com/">
 
-<img src="./tarmeez.png" width="700"/>
+<img src="./tarmeez.jpg" width="700"/>
 
 </a>
 
