@@ -4,20 +4,21 @@
 
 # Full Stack Developer
 
-Building scalable web applications with modern technologies and clean architecture.
+Building modern, scalable web applications with clean architecture,
+responsive interfaces, and production-ready technologies.
 
 <br>
 
+<a href="https://github.com/Esraa-Dev">
+<img src="https://img.shields.io/badge/GitHub-86222c?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 <a href="https://www.linkedin.com/in/esraa-mohammad-75b996216/">
-<img src="https://img.shields.io/badge/LinkedIn-86222c?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:esraamohammad107@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Esraa-Dev">
-<img src="https://img.shields.io/badge/GitHub-86222c?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-86222c?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -26,23 +27,98 @@ Building scalable web applications with modern technologies and clean architectu
 
 ## 👩‍💻 About Me
 
-I'm a Full Stack Developer passionate about building modern web applications and transforming ideas into real-world digital products.
+I'm a **Full Stack Developer** passionate about building modern web applications
+and transforming ideas into real-world digital products.
 
-My focus is creating scalable systems, responsive user interfaces, and maintainable backend architectures using modern JavaScript technologies.
+I focus on creating:
+
+- Scalable web applications
+- Responsive and modern user interfaces
+- Clean and maintainable code
+- RESTful APIs
+- Secure authentication systems
+- Performance-focused applications
+- Real-world client projects
+
+My main ecosystem is **JavaScript / TypeScript**, with experience across
+both frontend and backend development.
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,javascript,typescript,nextjs,html,css,tailwind,bootstrap,redux,mysql,git,github,figma,postman" />
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,bootstrap,redux"/>
+
+### Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,prisma"/>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode"/>
 
 </div>
 
 ---
 
 # 🚀 Featured Projects
+
+---
+
+## 🛒 Qurayyat Market
+
+<div align="center">
+
+<a href="https://qurayyat-market.vercel.app/">
+
+<img src="./qurrate-market.png" width="700"/>
+
+</a>
+
+</div>
+
+### Client Landing Page
+
+A modern and responsive **client landing page** built with
+**Next.js and Tailwind CSS**, focusing on clean UI, responsive layouts,
+performance, and a smooth user experience.
+
+The project was developed as a real-world client project and deployed
+to production using Vercel.
+
+### Highlights
+
+- Real-world client project
+- Modern responsive design
+- Mobile-first approach
+- Clean component architecture
+- Reusable UI sections
+- Responsive layouts across devices
+- Performance-focused implementation
+- Modern visual hierarchy
+- Conversion-oriented layout
+- Production deployment
+
+### Technology
+
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- Responsive Design
+- Vercel
+
+### Project
+
+🌐 **Live Website**
+
+https://qurayyat-market.vercel.app/
+
+> **Client Project — Repository Private**
 
 ---
 
@@ -58,13 +134,20 @@ My focus is creating scalable systems, responsive user interfaces, and maintaina
 
 </div>
 
-A full-stack healthcare platform built to streamline medical services through appointment management, doctor profiles, video consultations, multilingual support, and secure authentication.
+### Full-Stack Healthcare Platform
+
+A full-stack healthcare platform designed to streamline medical services
+through appointment management, doctor profiles, video consultations,
+electronic prescriptions, multilingual support, and secure authentication.
 
 ### Key Features
 
-- Multi-role Authentication (Patient, Doctor, Admin)
-- Real-Time Video Consultations
+- Multi-role Authentication
+  - Patient
+  - Doctor
+  - Admin
 - Appointment Booking System
+- Real-Time Video Consultations
 - Electronic Prescriptions
 - Doctor Ratings & Reviews
 - Arabic & English Support
@@ -72,7 +155,7 @@ A full-stack healthcare platform built to streamline medical services through ap
 - Admin Dashboard
 - Responsive Design
 
-### Technology Stack
+### Technology
 
 **Frontend**
 
@@ -98,12 +181,14 @@ A full-stack healthcare platform built to streamline medical services through ap
 - Mailtrap
 - ZegoCloud
 
-### Links
+### Project
 
-🌐 Live Demo  
+🌐 **Live Demo**
+
 https://al-shifa-clinic.vercel.app/
 
-📂 Repository  
+📂 **Repository**
+
 https://github.com/Esraa-Dev/Al-Shifa-Clinic
 
 ---
@@ -120,7 +205,11 @@ https://github.com/Esraa-Dev/Al-Shifa-Clinic
 
 </div>
 
-A modern full-stack platform developed to provide an engaging Islamic educational experience with responsive UI, authentication, and scalable architecture.
+### Full-Stack Islamic Educational Platform
+
+A modern full-stack platform developed to provide an engaging Islamic
+educational experience with responsive UI, authentication, dynamic content,
+and scalable architecture.
 
 ### Highlights
 
@@ -128,13 +217,25 @@ A modern full-stack platform developed to provide an engaging Islamic educationa
 - Authentication system
 - Dynamic content management
 - Optimized performance
-- Clean and scalable architecture
+- Clean component architecture
+- Scalable application structure
 
-### Live Demo
+### Technology
 
-🌐 https://ataa-omega.vercel.app/
+- React
+- TypeScript
+- Next.js
+- Tailwind CSS
+- Node.js
+- MongoDB
 
-> **Repository:** Private
+### Project
+
+🌐 **Live Demo**
+
+https://ataa-omega.vercel.app/
+
+> **Repository — Private**
 
 ---
 
@@ -150,7 +251,11 @@ A modern full-stack platform developed to provide an engaging Islamic educationa
 
 </div>
 
-A professional educational platform focused on programming education with a modern user experience, responsive design, and high-performance frontend architecture.
+### Programming Education Platform
+
+A professional educational platform focused on programming education,
+with a modern user experience, responsive design, and high-performance
+frontend architecture.
 
 ### Highlights
 
@@ -159,16 +264,27 @@ A professional educational platform focused on programming education with a mode
 - Fast performance
 - Production-ready frontend
 - Clean component architecture
+- Responsive layouts
 
-### Live Demo
+### Technology
 
-🌐 https://tarmeezcode.com/
+- React
+- TypeScript
+- Next.js
+- Tailwind CSS
+- React Query
 
-> **Repository:** Private
+### Project
+
+🌐 **Live Website**
+
+https://tarmeezcode.com/
+
+> **Repository — Private**
 
 ---
 
-## 🛠 Technologies I Work With
+# 💻 Technologies I Work With
 
 | Frontend | Backend | Database | Tools |
 |----------|----------|----------|-------|
@@ -182,7 +298,23 @@ A professional educational platform focused on programming education with a mode
 
 ---
 
-## 🌐 Connect With Me
+# 🎯 What I Build
+
+<div align="center">
+
+| 🌐 Web Applications | 🛒 E-Commerce | 🩺 Healthcare Platforms |
+|:---:|:---:|:---:|
+| Modern & Responsive | Conversion Focused | Scalable Architecture |
+
+| ⚛️ React Applications | 🚀 Next.js Projects | 🔧 REST APIs |
+|:---:|:---:|:---:|
+| Component-Based | SEO & Performance | Secure & Maintainable |
+
+</div>
+
+---
+
+# 🌐 Connect With Me
 
 <div align="center">
 
